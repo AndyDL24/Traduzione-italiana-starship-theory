@@ -15,7 +15,7 @@ Buon divertimento
 # Come segnalare un errore.
 Potete tramite questo sito segnalare gli errori come si fa se non conoscete il sito?
 Semplice basta andare in "Issues" e creare la rischiesta su "new issues" con il titolo e la descrizione ed il gioco è fatto appena la riesco a leggere modifico la traduzione e potete riscaricare
-file e rifare la stessa procedura indicata sopra.
+file e rifare la stessa procedura indicata sopra. Oppure sulla mia guida di steam è possibile lasciare dei messaggi potete farlo anche la.
 
 # Se voglio partecipare?
 È semplice dovete iscrivervi al sito e cliccare sulla scritta in alto a adestra "fork" scaricare il file con il pulsante "clone", modificare il file e dopo di che andare su
