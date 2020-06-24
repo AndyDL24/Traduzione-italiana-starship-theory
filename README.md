@@ -19,6 +19,6 @@ file e rifare la stessa procedura indicata sopra.
 
 # Se voglio partecipare?
 È semplice dovete iscrivervi al sito e cliccare sulla scritta in alto a adestra "fork" scaricare il file con il pulsante "clone", modificare il file e dopo di che andare su
-"upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto.
+"add file" poi "upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto.
 
 Ringrazio tutti in anticipo.
