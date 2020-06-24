@@ -1,0 +1,1017 @@
+//
+//	Italian text file
+//
+//	//	ignore line
+//	#	start of new category	
+//
+
+
+#	000		Tooltip text and crew notifications
+Nave da carico
+Capacità di memoria
+Cibo
+Requisito dell'equipaggio
+Metallo
+Richiesto per quasi tutte le costruzioni
+acqua
+Requisito dell'equipaggio
+Crediti
+Totale crediti
+Pannello del piano
+Costruire parti
+Pannello dell'equipaggio
+Panoramica dell'equipaggio. Fai clic centrale per centrare il membro dell'equipaggio.
+Total Crew
+Totale equipaggio combinato
+Energia
+Richiesto per alimentare i componenti
+Energia
+Ricaricato dormendo
+Ricaricato mangiando
+Richiede
+energia
+Oro
+Necessario per la costruzione di componenti complessi
+Silicio
+Necessario per la costruzione di componenti semplici
+Ricaricato bevendo
+Richiesto per eseguire componenti
+Fame
+Sete
+Requisiti
+unità
+a disposizione
+in uso
+durabilità
+Esperienza
+Ottenuto lavorando.
+Incremento
+raffreddamento
+Si stanno arrendendo!
+Commercio
+riuscito
+senza esito
+Nave rilevata su scanner a lungo raggio
+Campo di asteroidi rilevato in anticipo
+Stella rilevata in anticipo
+La nave bersaglio è ostile! non usato
+Surriscaldamento dei sistemi
+Carico in eccesso scaricato
+Ossigeno
+Richiesto per le passeggiate nello spazio
+La nave è ora in rotta di intercettazione
+Sembra una nave commerciale
+Stanno potenziando le loro armi!
+Siamo sottoposti a scansione
+Stanno potenziando le loro armi
+Stanno cercando di andarsene
+Warp in uscita dalla nave
+La nave ha cambiato rotta e ci intercetterà
+La nave non ci ha rilevato
+Minacciare
+Minaccia il bersaglio
+Corrompere
+Corrompere il bersaglio in partenza
+Non sono attualmente ostili
+Stanno cercando di scappare!
+La nave bersaglio si sta rompendo
+La nostra bustarella ha avuto successo
+Corruzione fallita
+La nostra minaccia ha avuto successo
+La nostra minaccia è fallita
+Non abbiamo cibo
+Non abbiamo acqua
+Non riesco ad accedere al cibo
+Impossibile accedere all'acqua
+Impostazione di un nuovo corso sul campo di asteroidi
+Impostazione di un nuovo corso per la spedizione della firma
+Nuovo corso
+Imposta la rotta sul campo di asteroidi
+Nuovo corso
+Imposta rotta per spedire la firma
+Nave già presente
+Siamo troppo vicini al campo attuale
+Centra fotocamera
+Compiti
+componenti
+Pannello delle attività
+Rivedere le attività in coda. Fare clic centrale per centrare l'attività.
+Pannello componenti
+Rivedere i componenti alimentati installati. Fare clic centrale per centrare il componente.
+Accensione del componente
+Componente spento
+uso della CPU
+Il consumo di energia
+Attiva / disattiva l'alimentazione
+Attiva / disattiva la funzione Desc
+Ricerca
+Ricerca nuovi componenti
+punti di ricerca necessari
+Associazioni hardcoded
+Nuovo equipaggio
+necessario
+per tutta la costruzione pianificata
+progresso
+notifiche
+Notifiche ordinate dalla più recente in alto
+Seleziona l'equipaggio
+Seleziona un nuovo equipaggio da vendere
+è stato distrutto
+
+#	200		Build buttons text
+Rimuovere
+Annulla piani o rimuovi struttura. Rimborso dell'intero costo se non danneggiato, altrimenti rimborsa la percentuale di HP.
+Scafo
+Costruire la base della nave - gli angoli esposti non perdono
+Pavimento
+Costruisci sullo scafo per creare stanze
+Letto
+Migliora il benessere
+Piccola cassa
+Aggiungi capacità di carico
+Cassa media
+unità
+Distributore di cibo
+Fornisce cibo [DIREZIONALE]
+Motore medio
+Richiede manutenzione. Non può essere costruito sugli angoli. Aumenta eludere di
+Grande motore
+Richiede manutenzione. Non può essere costruito sugli angoli. Aumenta eludere di
+Motore XLarge
+Richiede manutenzione. Non può essere costruito sugli angoli. Aumenta eludere di
+Sedia
+Utilizzato per mangiare e dall'equipaggio operativo. Può essere calpestato.
+Tavolino
+Meglio che mangiare sul pavimento
+Tavolo medio
+Meglio che mangiare sul pavimento
+Grande tavolo
+Meglio che mangiare sul pavimento
+Porta
+Può essere bloccato. Non ermetico.
+Airlock
+Richiesto per lo spacewalking. Può essere scaricato.
+Dare priorità
+Assegna priorità alle attività
+Pannello solare
+Genera potenza
+Solare
+Angolo dello scafo
+Angolo dello scafo desc
+Piccolo letto vegetale
+Usato per coltivare 1 alimento
+Letto vegetale medio
+Usato per coltivare 2 alimenti
+Grande letto vegetale
+Usato per coltivare 4 alimenti
+Piccolo reattore
+Genera potenza. Richiede manutenzione.
+Reattore medio
+Genera potenza. Richiede manutenzione.
+Grande reattore
+Genera potenza. Richiede manutenzione.
+Console di navigazione
+Funzionato da operazioni. Aumenta eludere dall'abilità dell'intelligenza. Può essere usato per dirigersi verso l'asteroide / la nave. [DIREZIONALE]
+Console sensore
+Funzionato da operazioni. Aumenta i tempi di notifica grazie all'abilità dell'intelligence. [DIREZIONALE]
+Console di armi
+Funzionato dai militari. Aumenta la precisione grazie all'abilità di combattimento. [DIREZIONALE]
+Console di protezione
+Funzionato dai militari. Aumenta la ricarica degli scudi con l'abilità di combattimento. [DIREZIONALE]
+Cassa grande
+Aggiungi capacità di carico
+Piccolo motore
+Richiede manutenzione. Non può essere costruito sugli angoli. Aumenta eludere di
+Generatore di scudi
+Ricarica la cella di protezione.
+Supporto vitale
+Pompe di ossigeno
+Supporto a vita media
+Supporto per vita media desc
+Grande supporto vitale
+Ampio supporto vitale desc
+Torretta laser
+Arma energetica di base
+Cellula scudo
+Componente scudo di base. Richiede la ricarica.
+Lanciasiluri
+Potente arma esplosiva a fuoco lento
+Pod di razzi
+Arma esplosiva multi-tiro
+Torretta al plasma
+Arma energetica a fuoco rapido
+railgun
+Arma a proiettili che colpisce duramente
+Torretta EMP
+Arma energetica efficace contro gli scudi
+chaingun
+Arma a proiettili multi-colpo
+Booster scudo
+Ricarica la cella di protezione
+Corazza piccola
+Fornisce buffer di armatura
+Placca per armatura media
+Fornisce buffer di armatura
+Grande armatura
+Fornisce buffer di armatura
+Riparatore di armature
+Usa i nanobot per ricaricare il buffer dell'armatura
+Sedia capitani
+Fornisce bonus di velocità, morale ed energia
+Nucleo di ordito
+Raddoppia la velocità di ricarica dell'azionamento a salto
+Laser da miniera
+Miniere di metallo, silicone, oro e acqua. La portata può essere aumentata con console o extender.
+Marcatura del pavimento
+Decorazione interna
+Stampante di circuito
+Descrittore stampante circuito
+Health pad
+Abilita la guarigione dell'equipaggio. Può calpestare quando non in uso.
+Botola del carico
+Aggiungi capacità di carico esterna
+Console di comunicazione
+Funzionato da operazioni. Aumenta i tempi di notifica grazie all'abilità dell'intelligence. [DIREZIONALE]
+Console di calore
+Funzionato da operazioni. Aumenta la quantità di sfiato di calore grazie all'abilità dell'intelligenza. [DIREZIONALE]
+Matrice di comunicazioni
+Descrizione dell'array di comunicazioni
+Piccola ventola di calore
+Abbassa il calore
+Piccolo pannello solare
+Genera potenza
+Pannello solare medio
+Genera potenza
+Array di CPU
+Fornisce CPU
+Refrigeratore d'acqua
+Fornisce acqua
+Array di sensori
+Rilevamento precoce delle minacce
+Tutore dello scafo
+Aumenta il buffer della struttura. Può essere calpestato.
+Console di armatura
+Funzionato dai militari. Migliora la ricarica dell'armatura grazie all'abilità di combattimento [DIREZIONALE]
+Limite 1
+Console chiara
+Clear console desc
+Estensore di data mining
+Aumenta il raggio di estrazione
+Penetrazione di energia
+Aumenta il danno delle armi energetiche adiacenti (non diagonali)
+Penetrazione proiettile
+Aumenta il danno delle armi proiettili adiacenti (non diagonali)
+Penetrazione esplosiva
+Aumenta il danno delle armi esplosive adiacenti (non diagonali)
+Protezione energetica S
+Protezione energetica S desc
+Protezione proiettile S
+Protezione proiettile S desc
+Protezione antideflagrante S
+Protezione antideflagrante S desc
+Aggiornamento dell'arma
+Upgrade energetico
+Aggiornamento proiettile
+Aggiornamento esplosivo
+Lunghezza di estrazione mineraria
+Protezione energetica A
+Protezione energetica A desc
+Protezione proiettile A
+Protezione proiettile A desc
+Protezione esplosiva A
+Protezione esplosiva A desc
+Shield Amp
+Aumenta la ricarica dello scudo del booster adiacente (non diagonale)
+Amp. Armatura
+Aumenta la ricarica dell'armatura del potenziatore adiacente (non diagonale)
+Pannello CPU
+Fornisce CPU esternamente
+Danno dello schermo di base
+Danno dello scafo di base
+Danno dell'equipaggio di base
+Tempo di ricarica
+Marcatura scafo
+Decorazione esterna
+Stazione di ricerca
+Sblocca nuovi componenti
+Trascina la casella
+Costruire
+Riparazione
+Rimuovi attività
+Controllo delle risorse
+Completamento dell'attività
+Avanzamento del completamento dell'attività
+Nucleo della nave
+Tutti i componenti devono essere collegati al nucleo della nave tramite scafo o pavimento.
+Ventilazione media
+capacità
+sfogo
+Console di mining
+Funzionato dai militari. Aumenta il raggio di estrazione per abilità di combattimento. [DIREZIONALE]
+Stack CPU
+Stack CPU 2x2
+Minatore di auto
+Minatore automatico
+FUOCO AUTO
+DISC
+
+
+#	400		Menu text
+CARICO
+Piano
+Rimuovere
+CREW
+Assegna letto
+Assegna letti
+Ingegneria
+Mobilia
+Utilità
+equipaggio
+Rinominare
+Porta
+Porte
+Airlock
+sacche d'aria
+Sbloccare
+Serratura
+Kill (debug)
+Letto trasparente
+Letti chiari
+Riportare alle condizioni originali
+Rinomina l'equipaggio
+Rinomina la descrizione dell'equipaggio
+Assegnare
+per
+Agilità
+Migliora la velocità di movimento
+Ingegneria
+Migliora la velocità di costruzione, la velocità di riparazione e il funzionamento del motore
+Resistenza
+Migliora energia, fame e salute
+Intelligenza
+Migliora la produzione alimentare, la ricerca e le operazioni di non combattimento
+Salute
+Aumentare riposando, mangiando o cure mediche. Modificato dalla resistenza.
+Morale
+Migliora riposando, mangiando o mobili. Modificato dall'intelligenza.
+GIOCATORE
+Costruire componenti di ingegneria
+Costruisci mobili
+Costruire componenti funzionali
+Massa
+Valutazione dimensionale della nave usata nell'abilità eludere
+Nave giocatore
+Nome della nave del giocatore
+PIANO
+Attiva / disattiva pannello
+OPZIONI
+Accensione
+Componente di potenza
+Spegni
+Disabilita componente
+richiesto per operare
+Dormire
+operazioni
+Terminali a equipaggio
+Mangiare
+Ordine
+morire
+mangiare
+dormire
+Aperto
+Vicino
+Armi
+Armi e appassionati di armi
+Sfogo
+Sfiatare l'ossigeno nello spazio
+Sigilla la nave dallo sfogo allo spazio
+Assegna console
+Assegna la console all'equipaggio
+Assegna letto
+Assegna il letto all'equipaggio
+Abilita il lavoro
+Consenti all'equipaggio di lavorare su questa struttura
+Disabilita il lavoro
+Impedire il funzionamento di questa struttura
+Controllo manuale
+Dare ordini specifici a questo membro dell'equipaggio
+Controllo del rilascio
+I membri dell'equipaggio troveranno il loro destino
+Riassegnare
+Ordine
+Gruppo di controllo
+Ferma il targeting
+Impedisci alle armi di sparare
+Scudo
+Schermo corrente e valore di riparazione
+Armatura
+Armatura attuale e valore di riparazione
+difese
+Costruire capacità difensive
+Struttura
+Struttura attuale e valore di riparazione
+BERSAGLIO
+Designazione della nave bersaglio
+Scudo della nave bersaglio
+Scudo corrente della nave bersaglio e valore di riparazione
+Armatura della nave bersaglio
+Armatura attuale della nave bersaglio e valore di riparazione
+Struttura della nave bersaglio
+Struttura attuale della nave target e valore di riparazione
+Rinomina marcatura
+Rinomina marcatura
+ENERGIA
+Warp jump
+Warp jump desc
+punti ferita
+Calore
+Capacità di riscaldamento e raffreddamento
+Calore della nave bersaglio
+Capacità di riscaldamento e raffreddamento della nave target
+processore
+Bevanda
+bevanda
+strutture
+Vicino
+Ordini del capitano
+Scarico 20% metallo
+Scarica il metallo nello spazio
+Scarica il 20% di silicio
+Scaricare il silicio nello spazio
+Scarica il 20% di oro
+Scarica l'oro nello spazio
+Scarica il 20% di acqua
+Scaricare l'acqua nello spazio
+Dump del 20% di cibo
+Scarica cibo nello spazio
+Combattere
+Migliora l'operazione di combattimento
+Accuratezza della nave
+Precisione + 1d10 rispetto all'evasione del nemico. 10 è sempre un successo.
+La nave evade
+[Max 5] Rispetto alla precisione del nemico + 1d10 per eludere l'attacco. Aumenta la possibilità di evitare la collisione di asteroidi.
+Precisione della nave bersaglio
+Precisione + 1d10 rispetto all'evasione del giocatore. 10 è sempre un successo.
+La nave bersaglio evade
+[Max 5] Rispetto alla precisione del giocatore + 1d10 per eludere l'attacco
+COLORE
+Ricolorare la nave
+accento
+gabbia
+Motore
+Spinta del motore
+Piastre di armatura
+Reattore
+uniforme
+tavolo
+Letto vegetale
+Impianti
+Sporco
+Saldatore
+Tavoletta
+cuffia
+Tuta spaziale
+Vetro della tuta spaziale
+Estintore
+Lattina d'acqua
+Piano di costruzione
+Salute dell'equipaggio
+Energia dell'equipaggio
+Il morale dell'equipaggio
+Esperienza dell'equipaggio
+Punti ferita della struttura
+Ripetizione dell'arma
+Costruisci tessera
+Rimuovi tessera
+Mop per la pulizia
+Ricarica scudo nave
+Descrizione della ricarica dello scudo della nave
+Ricarica dello scudo bersaglio
+Descrizione ricarica scudo bersaglio
+Ricarica dell'armatura della nave
+Descrizione della ricarica dell'armatura della nave
+Ricarica dell'armatura bersaglio
+Descrizione della ricarica dell'armatura bersaglio
+Ostile
+Neutro
+amichevole
+Commercio
+ogni
+Acquistare
+Vendere
+per
+crediti
+RELAZIONE
+Stato della relazione con il target
+OFFERTE COMMERCIALI
+Offerte commerciali con target
+OFFERTA COMMERCIALE
+Acquista da target
+Vendi al bersaglio
+Abilità dell'equipaggio di navigazione
+Potenza del motore
+Massa
+Totale
+Armi da fuoco
+Abilità dell'equipaggio dell'arma
+Abilità dell'equipaggio del motore
+Interagire
+QUESTA È LA FINE DI QUESTO GRUPPO
+
+
+
+
+#	600		Crew, beds panel
+Generale
+Pulizia.
+Scienza
+Ricerca e biologia
+operazioni
+Navigazione, sensori, gestione del calore.
+Ingegnere
+Costruzione e riparazione.
+Militare
+Targeting e difesa.
+Capitano
+Ruolo di comando
+Letto trasparente
+Letti chiari
+esploratore
+Minatore
+Trasportatore
+Rinomina nave
+Crea la tua designazione di nave
+PERDERE
+Ripristina
+Ripristina le opzioni di colore sui colori attualmente applicati
+Applicare
+Applica nuovi colori per la spedizione
+Giocare
+Pausa
+Rosso
+Focus dell'equipaggio su ruoli di combattimento e riparazioni: sono necessari ordini manuali per costruire nuove strutture.
+autofire
+Le armi mirano automaticamente e sparano sulla nave bersaglio
+Saltare
+Eseguire il salto di curvatura. Richiede carica ed elusione> 0.
+Blu
+Tutto l'equipaggio per tornare alla nave
+Nero
+Abbandonare la nave
+CODICE
+sensori
+Rileva le minacce in arrivo con ulteriore avviso.
+Abilità dell'equipaggio del sensore
+Avanti veloce
+RUOLI
+Designare ruoli per l'equipaggio
+Airlock
+Nave in partenza
+Rientro in nave
+Dirigendosi verso
+Lavorando
+Verso il cibo
+Trovare un posto dove mangiare
+Mangiare
+Verso l'acqua
+Potabile
+Dirigendosi al rilievo di salute
+Guarigione
+Andare a letto
+addormentato
+Dirigendosi al fuoco
+Combattere il fuoco
+Verso i rifiuti
+Pulizia dei rifiuti
+Andare al lavoro
+Costruire
+Riparazione
+Dirigendosi al corpo
+Trattare con il corpo
+Inattivo
+La sedia del capitano
+navigazione
+sensori
+mira
+controlli scudo
+controlli dell'armatura
+comunicazioni
+controlli di calore
+Verso l'ordine
+In attesa di ordine
+motori
+impianti
+Controllo manuale
+L'equipaggio è sotto controllo manuale
+Compito
+Attività assegnata al membro dell'equipaggio
+Impostare la rotta
+Campo di asteroidi
+Firma della nave
+console di ricerca
+controlli minerari
+Piano visivo
+Ruota per cambiare l'aspetto del pavimento
+Pavimento
+Dipingi piano singolo
+Scafo
+Vernice scafo singolo
+Struttura
+Dipingi la singola struttura
+Ripristina
+Ripristina tutta la vernice
+Finestra
+Finestra sullo scafo
+Trasporto militare
+Fregata mineraria
+Baccello di fuga
+Facile
+medio
+Difficile
+Difficoltà iniziale
+
+
+#	800		Main menu text
+Nuovo
+Caricare
+Opzioni
+Esci
+Salva
+Continua
+Slot vuoto
+Escape Pod 02
+Inizio
+Predefinito
+Seleziona nuovo equipaggio
+Equipaggio
+Curriculum vitae
+Video
+Audio
+Controlli
+Interfaccia
+Generale
+Effetti
+Menù
+Musica
+volume
+Descrizione del volume principale
+Descrizione del volume degli effetti
+Descrizione del volume del menu
+Descrizione del volume della musica
+Bilanciamento stereo
+-1 (tutto a sinistra) a 1 (tutto a destra). Predefinito = 0.
+Miscela spaziale
+Da 0 (2d) a 1 (3d). Predefinito = 1.
+Livello Doppler
+Da 0 (nessuno) a 5 (pieno). Predefinito = 0.
+Sensibilità dello zoom
+Sensibilità dello zoom della fotocamera
+Zoom sul cursore
+Zoom al cursore o zoom al centro dello schermo
+Zoom invertito
+Invertire la rotellina del mouse
+Abilita suggerimenti
+Abilita nelle descrizioni dei giochi
+Ritardo della descrizione comandi
+Aumentare o ridurre il tempo prima che venga visualizzata la descrizione comandi
+Trascina la sensibilità
+Sensibilità di trascinamento della fotocamera
+Scala UI
+Sperimentale. Segnalato per causare problemi FPS. Predefinito 1.
+Preselezione del colore
+Clic sinistro per impostare. Fare clic con il tasto destro per cancellare.
+in finestra
+Abilita display con finestre
+A schermo intero
+Abilita visualizzazione a schermo intero
+FPS max
+Imposta FPS massimo
+Nessuna
+VSYNC
+Attiva/disattiva VSYNC
+Accento del menu
+Imposta il colore dell'accento del menu
+Ripristina le impostazioni del menu
+Ripristina tutte le impostazioni del menu sui valori predefiniti
+Impostare sulla risoluzione a schermo intero
+Distanza massima
+L'audio del gioco a distanza può essere ascoltato dalla sorgente. Predefinito 100.
+Hover pulsante
+Pulsante di passaggio del mouse/invio del suono
+Fare clic sul pulsante
+Imposta suono clic pulsante
+Successo
+Imposta suono successo pulsante
+Errore
+Imposta il suono dell'errore del pulsante
+Tempo doppio tocco
+Imposta la finestra temporale del doppio tocco
+Caricamento in corso
+Primo carico
+linguaggio
+Imposta lingua (richiede il riavvio)
+Inglese
+cinese semplificato
+cinese tradizionale
+francese
+Tedesco
+polacco
+portoghese
+russo
+spagnolo
+svedese
+Personalizzato
+UI alpha
+Trasparenza dello sfondo del pannello UI
+Notifica
+Colore di notifica dell'equipaggio
+Abilita allarme
+Abilita i suoni di allarme
+Importare navi nemiche
+Importare
+Importa e applica i colori dal file
+Esportare
+Esporta i colori applicati su file
+Pannello dell'equipaggio max
+Il numero massimo di righe del pannello equipaggio da mostrare
+VECCHIO
+Pannello delle attività max
+Il numero massimo di righe del pannello delle attività da mostrare
+Pannello componenti max
+Il numero massimo di righe del pannello componenti da mostrare
+Ripristina controlli
+Reimposta tutte le combinazioni di tasti sui valori predefiniti
+Intonazione
+Descrizione del cambio di intonazione. Predefinito 15.
+Pannello di notifica max
+Il numero massimo di righe del pannello di notifica da mostrare
+Timer di salvataggio automatico
+Minuti tra il salvataggio automatico
+
+#	1000	Key bindings
+m1 inutilizzato
+Mouse 1
+m2 inutilizzato
+Mouse 2
+Trascina la fotocamera
+Trascina la fotocamera
+Conferma il testo
+Conferma l'inserimento del testo
+Conferma testo 2
+Conferma inserimento testo 2
+Seleziona tutto / Salva gruppo
+Seleziona il pulsante tutto / salva gruppo
+non usato
+desc inutilizzato
+Gruppo di controllo 1
+Seleziona il gruppo di controllo 1
+Gruppo di controllo 2
+Seleziona il gruppo di controllo 2
+Gruppo di controllo 3
+Seleziona il gruppo di controllo 3
+Gruppo di controllo 4
+Seleziona il gruppo di controllo 4
+Gruppo di controllo 5
+Seleziona il gruppo di controllo 5
+Gruppo di controllo 6
+Seleziona il gruppo di controllo 6
+Gruppo di controllo 7
+Seleziona il gruppo di controllo 7
+Gruppo di controllo 8
+Seleziona il gruppo di controllo 8
+Gruppo di controllo 9
+Seleziona gruppo di controllo 9
+Gruppo di controllo 10
+Seleziona il gruppo di controllo 10
+Seleziona / rimuovi singolo
+Seleziona / rimuovi singola struttura / equipaggio
+Smetti di sparare
+Ferma il tiro con le armi selezionato
+Spegni
+Spegni le strutture selezionate
+Accensione
+Accendi le strutture selezionate
+Controllo del rilascio
+Rilascia il controllo dell'equipaggio selezionato
+Prendere il controllo
+Assumi il controllo dell'equipaggio selezionato
+Abilita il lavoro
+Abilita il lavoro sulla struttura selezionata
+Disabilita / interrompe il lavoro
+Disabilita il lavoro sulla struttura selezionata
+Pausa
+Metti in pausa il gioco
+Bloccare la porta / airlock
+Blocca airlock selezionati
+Sblocca porta / airlock
+Sblocca airlock selezionati
+Vent airlock
+Sfiatare la camera d'aria nello spazio
+Chiudi airlock
+Smettere di sfiatare dalla camera di equilibrio
+Ruota in senso orario
+Ruota la struttura in senso orario
+Ruota in senso antiorario
+Ruota la struttura in senso antiorario
+Pannello del piano
+Attiva / disattiva il pannello del piano
+Pannello dell'equipaggio
+Attiva / disattiva il pannello equipaggio
+Pannello di carico
+Attiva / disattiva il pannello cargo
+Pannello della nave
+Attiva / disattiva il pannello della nave
+Pannello a colori
+Attiva / disattiva il pannello colori
+Rimuovere
+Attiva / disattiva rimozione rapida durante la costruzione
+Dare priorità
+Attiva / disattiva la priorità durante la costruzione
+Attiva / disattiva il codice in rosso
+Attiva / disattiva il codice rosso
+Attiva / disattiva il fuoco automatico
+Attiva / disattiva la funzione di accensione automatica
+Assegna console
+Assegna l'equipaggio a lavorare su questa console
+Assegna letto
+Assegna l'equipaggio a questo letto
+Ordina il sonno
+Ordina all'equipaggio di dormire
+Ordina mangiare
+Ordina all'equipaggio di mangiare
+Ordina da bere
+Ordina un drink per l'equipaggio
+Attiva / disattiva il codice blu
+Attiva / disattiva il codice blu
+Warp jump
+Richiede la carica completa e> 0 eludere
+Attiva / disattiva il codice nero
+Attiva / disattiva il codice nero
+Pannello ruoli
+Attiva / disattiva il pannello dei ruoli
+Attiva / disattiva la velocità di gioco
+Attiva / disattiva la velocità di gioco
+Centra fotocamera
+Centra la videocamera sulla nave
+Pannello delle attività
+Attiva / disattiva il pannello delle attività
+Pannello struttura
+Attiva / disattiva il pannello della struttura
+Pannello di ricerca
+Attiva / disattiva il pannello di ricerca
+Pannello di notifica
+Attiva / disattiva il pannello delle notifiche
+Attiva / disattiva l'interfaccia utente
+Attiva / disattiva l'interfaccia utente
+Ingrandire
+Ingrandisci la fotocamera
+Rimpicciolisci
+Zoom indietro
+Salvataggio veloce
+Salva il gioco nello slot di salvataggio rapido
+Caricamento rapido
+Salva il gioco nello slot di caricamento rapido
+
+#	1200	TITLE
+Alpha 1.2e
+GIOCO FINITO
+
+
+
+#	1400 Back up
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
