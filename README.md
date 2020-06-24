@@ -14,7 +14,7 @@ Buon divertimento
 
 # Come segnalare un errore.
 Potete tramite questo sito segnalare gli errori come si fa se non conoscete il sito?
-Semplice basta andare in "Issues" e creare la rischiesta con il titolo e la descrizione ed il gioco è fatto appena la riesco a leggere modifico la traduzione e potete riscaricare
+Semplice basta andare in "Issues" e creare la rischiesta su "new issues" con il titolo e la descrizione ed il gioco è fatto appena la riesco a leggere modifico la traduzione e potete riscaricare
 file e rifare la stessa procedura indicata sopra.
 
 # Se voglio partecipare?
