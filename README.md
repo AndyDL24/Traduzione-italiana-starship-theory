@@ -1,4 +1,4 @@
-# Traduzione-italiana-starship-theory.
+# Traduzione italiana di Starship Theory.
 Traduzione italiana del gioco Starship Theory
 
 # Come si scarica da questo strano sito.
