@@ -13,7 +13,7 @@ Cibo
 Requisito dell'equipaggio
 Metallo
 Richiesto per quasi tutte le costruzioni
-acqua
+Acqua
 Requisito dell'equipaggio
 Crediti
 Totale crediti
@@ -21,7 +21,7 @@ Pannello del piano
 Costruire parti
 Pannello dell'equipaggio
 Panoramica dell'equipaggio. Fai clic centrale per centrare il membro dell'equipaggio.
-Total Crew
+Equipaggio totale
 Totale equipaggio combinato
 Energia
 Richiesto per alimentare i componenti
@@ -39,18 +39,18 @@ Richiesto per eseguire componenti
 Fame
 Sete
 Requisiti
-unità
-a disposizione
-in uso
-durabilità
+Unità
+A disposizione
+In uso
+Durabilità
 Esperienza
 Ottenuto lavorando.
 Incremento
 raffreddamento
 Si stanno arrendendo!
 Commercio
-riuscito
-senza esito
+Riuscito
+Senza esito
 Nave rilevata su scanner a lungo raggio
 Campo di asteroidi rilevato in anticipo
 Stella rilevata in anticipo
@@ -65,7 +65,7 @@ Stanno potenziando le loro armi!
 Siamo sottoposti a scansione
 Stanno potenziando le loro armi
 Stanno cercando di andarsene
-Warp in uscita dalla nave
+Curvatura in uscita dalla nave
 La nave ha cambiato rotta e ci intercetterà
 La nave non ci ha rilevato
 Minacciare
@@ -93,33 +93,33 @@ Nave già presente
 Siamo troppo vicini al campo attuale
 Centra fotocamera
 Compiti
-componenti
+Componenti
 Pannello delle attività
 Rivedere le attività in coda. Fare clic centrale per centrare l'attività.
 Pannello componenti
 Rivedere i componenti alimentati installati. Fare clic centrale per centrare il componente.
 Accensione del componente
 Componente spento
-uso della CPU
+Uso della CPU
 Il consumo di energia
-Attiva / disattiva l'alimentazione
-Attiva / disattiva la funzione Desc
+Attiva/disattiva l'alimentazione
+Attiva/disattiva la funzione Desc
 Ricerca
 Ricerca nuovi componenti
-punti di ricerca necessari
+Punti di ricerca necessari
 Associazioni hardcoded
 Nuovo equipaggio
-necessario
+Necessario
 per tutta la costruzione pianificata
-progresso
-notifiche
+Progresso
+Notifiche
 Notifiche ordinate dalla più recente in alto
 Seleziona l'equipaggio
 Seleziona un nuovo equipaggio da vendere
 è stato distrutto
 
 #	200		Build buttons text
-Rimuovere
+Distruggi
 Annulla piani o rimuovi struttura. Rimborso dell'intero costo se non danneggiato, altrimenti rimborsa la percentuale di HP.
 Scafo
 Costruire la base della nave - gli angoli esposti non perdono
@@ -130,9 +130,9 @@ Migliora il benessere
 Piccola cassa
 Aggiungi capacità di carico
 Cassa media
-unità
+Unità
 Distributore di cibo
-Fornisce cibo [DIREZIONALE]
+Fornisce cibo[DIREZIONALE]
 Motore medio
 Richiede manutenzione. Non può essere costruito sugli angoli. Aumenta eludere di
 Grande motore
@@ -150,7 +150,7 @@ Meglio che mangiare sul pavimento
 Porta
 Può essere bloccato. Non ermetico.
 Airlock
-Richiesto per lo spacewalking. Può essere scaricato.
+Richiesto per la passeggiata spaziale. Può essere scaricato.
 Dare priorità
 Assegna priorità alle attività
 Pannello solare
@@ -171,13 +171,13 @@ Genera potenza. Richiede manutenzione.
 Grande reattore
 Genera potenza. Richiede manutenzione.
 Console di navigazione
-Funzionato da operazioni. Aumenta eludere dall'abilità dell'intelligenza. Può essere usato per dirigersi verso l'asteroide / la nave. [DIREZIONALE]
+Funzionato da operazioni. Aumenta eludere dall'abilità dell'intelligenza. Può essere usato per dirigersi verso l'asteroide/la nave.[DIREZIONALE]
 Console sensore
-Funzionato da operazioni. Aumenta i tempi di notifica grazie all'abilità dell'intelligence. [DIREZIONALE]
+Funzionato da operazioni. Aumenta i tempi di notifica grazie all'abilità dell'intelligence.[DIREZIONALE]
 Console di armi
-Funzionato dai militari. Aumenta la precisione grazie all'abilità di combattimento. [DIREZIONALE]
+Funzionato dai militari. Aumenta la precisione grazie all'abilità di combattimento.[DIREZIONALE]
 Console di protezione
-Funzionato dai militari. Aumenta la ricarica degli scudi con l'abilità di combattimento. [DIREZIONALE]
+Funzionato dai militari. Aumenta la ricarica degli scudi con l'abilità di combattimento.[DIREZIONALE]
 Cassa grande
 Aggiungi capacità di carico
 Piccolo motore
@@ -196,15 +196,15 @@ Cellula scudo
 Componente scudo di base. Richiede la ricarica.
 Lanciasiluri
 Potente arma esplosiva a fuoco lento
-Pod di razzi
+Capsula di razzi
 Arma esplosiva multi-tiro
 Torretta al plasma
 Arma energetica a fuoco rapido
-railgun
+Cannone
 Arma a proiettili che colpisce duramente
 Torretta EMP
 Arma energetica efficace contro gli scudi
-chaingun
+Mitragliatrice
 Arma a proiettili multi-colpo
 Booster scudo
 Ricarica la cella di protezione
@@ -226,7 +226,7 @@ Marcatura del pavimento
 Decorazione interna
 Stampante di circuito
 Descrittore stampante circuito
-Health pad
+Pannello salute
 Abilita la guarigione dell'equipaggio. Può calpestare quando non in uso.
 Botola del carico
 Aggiungi capacità di carico esterna
@@ -254,15 +254,15 @@ Console di armatura
 Funzionato dai militari. Migliora la ricarica dell'armatura grazie all'abilità di combattimento [DIREZIONALE]
 Limite 1
 Console chiara
-Clear console desc
-Estensore di data mining
+Console libera desc
+Estensore di estrazione di dati
 Aumenta il raggio di estrazione
 Penetrazione di energia
-Aumenta il danno delle armi energetiche adiacenti (non diagonali)
+Aumenta il danno delle armi energetiche adiacenti(non diagonali)
 Penetrazione proiettile
-Aumenta il danno delle armi proiettili adiacenti (non diagonali)
+Aumenta il danno delle armi proiettili adiacenti(non diagonali)
 Penetrazione esplosiva
-Aumenta il danno delle armi esplosive adiacenti (non diagonali)
+Aumenta il danno delle armi esplosive adiacenti(non diagonali)
 Protezione energetica S
 Protezione energetica S desc
 Protezione proiettile S
@@ -270,7 +270,7 @@ Protezione proiettile S desc
 Protezione antideflagrante S
 Protezione antideflagrante S desc
 Aggiornamento dell'arma
-Upgrade energetico
+Aggiornamento energetico
 Aggiornamento proiettile
 Aggiornamento esplosivo
 Lunghezza di estrazione mineraria
@@ -280,10 +280,10 @@ Protezione proiettile A
 Protezione proiettile A desc
 Protezione esplosiva A
 Protezione esplosiva A desc
-Shield Amp
-Aumenta la ricarica dello scudo del booster adiacente (non diagonale)
+Scudo Amp
+Aumenta la ricarica dello scudo del booster adiacente(non diagonale)
 Amp. Armatura
-Aumenta la ricarica dell'armatura del potenziatore adiacente (non diagonale)
+Aumenta la ricarica dell'armatura del potenziatore adiacente(non diagonale)
 Pannello CPU
 Fornisce CPU esternamente
 Danno dello schermo di base
@@ -304,13 +304,13 @@ Avanzamento del completamento dell'attività
 Nucleo della nave
 Tutti i componenti devono essere collegati al nucleo della nave tramite scafo o pavimento.
 Ventilazione media
-capacità
-sfogo
-Console di mining
+Capacità
+Sfogo
+Console d'estrazione mineraria
 Funzionato dai militari. Aumenta il raggio di estrazione per abilità di combattimento. [DIREZIONALE]
-Stack CPU
-Stack CPU 2x2
-Minatore di auto
+Pila di CPU
+Pila di CPU 2x2
+Minatore automatico
 Minatore automatico
 FUOCO AUTO
 DISC
@@ -320,21 +320,21 @@ DISC
 CARICO
 Piano
 Rimuovere
-CREW
+EQUIPAGGIO
 Assegna letto
 Assegna letti
 Ingegneria
 Mobilia
 Utilità
-equipaggio
+Equipaggio
 Rinominare
 Porta
 Porte
 Airlock
-sacche d'aria
+Sacche d'aria
 Sbloccare
 Serratura
-Kill (debug)
+Uccidi(debug)
 Letto trasparente
 Letti chiari
 Riportare alle condizioni originali
@@ -363,21 +363,21 @@ Valutazione dimensionale della nave usata nell'abilità eludere
 Nave giocatore
 Nome della nave del giocatore
 PIANO
-Attiva / disattiva pannello
+Attiva/disattiva pannello
 OPZIONI
 Accensione
 Componente di potenza
 Spegni
 Disabilita componente
-richiesto per operare
+Richiesto per operare
 Dormire
-operazioni
+Operazioni
 Terminali a equipaggio
 Mangiare
 Ordine
-morire
-mangiare
-dormire
+Morire
+Mangiare
+Dormire
 Aperto
 Vicino
 Armi
@@ -400,13 +400,13 @@ I membri dell'equipaggio troveranno il loro destino
 Riassegnare
 Ordine
 Gruppo di controllo
-Ferma il targeting
+Ferma il puntamento
 Impedisci alle armi di sparare
 Scudo
 Schermo corrente e valore di riparazione
 Armatura
 Armatura attuale e valore di riparazione
-difese
+Difese
 Costruire capacità difensive
 Struttura
 Struttura attuale e valore di riparazione
@@ -421,17 +421,17 @@ Struttura attuale della nave target e valore di riparazione
 Rinomina marcatura
 Rinomina marcatura
 ENERGIA
-Warp jump
-Warp jump desc
-punti ferita
+Salto a curvatura
+Salto di curvatura desc
+Punti ferita
 Calore
 Capacità di riscaldamento e raffreddamento
 Calore della nave bersaglio
-Capacità di riscaldamento e raffreddamento della nave target
-processore
+Capacità di riscaldamento e raffreddamento della nave bersaglio
+Processore
 Bevanda
-bevanda
-strutture
+Bevanda
+Strutture
 Vicino
 Ordini del capitano
 Scarico 20% metallo
@@ -456,20 +456,20 @@ La nave bersaglio evade
 [Max 5] Rispetto alla precisione del giocatore + 1d10 per eludere l'attacco
 COLORE
 Ricolorare la nave
-accento
-gabbia
+Accento
+Gabbia
 Motore
 Spinta del motore
 Piastre di armatura
 Reattore
-uniforme
-tavolo
+Uniforme
+Tavolo
 Letto vegetale
 Impianti
 Sporco
 Saldatore
 Tavoletta
-cuffia
+Cuffia
 Tuta spaziale
 Vetro della tuta spaziale
 Estintore
@@ -494,19 +494,19 @@ Ricarica dell'armatura bersaglio
 Descrizione della ricarica dell'armatura bersaglio
 Ostile
 Neutro
-amichevole
+Amichevole
 Commercio
-ogni
+Ogni
 Acquistare
 Vendere
 per
 crediti
 RELAZIONE
-Stato della relazione con il target
+Stato della relazione con il bersaglio
 OFFERTE COMMERCIALI
-Offerte commerciali con target
+Offerte commerciali con bersaglio
 OFFERTA COMMERCIALE
-Acquista da target
+Acquista da bersaglio
 Vendi al bersaglio
 Abilità dell'equipaggio di navigazione
 Potenza del motore
@@ -526,7 +526,7 @@ Generale
 Pulizia.
 Scienza
 Ricerca e biologia
-operazioni
+Operazioni
 Navigazione, sensori, gestione del calore.
 Ingegnere
 Costruzione e riparazione.
@@ -536,7 +536,7 @@ Capitano
 Ruolo di comando
 Letto trasparente
 Letti chiari
-esploratore
+Esploratore
 Minatore
 Trasportatore
 Rinomina nave
@@ -550,7 +550,7 @@ Giocare
 Pausa
 Rosso
 Focus dell'equipaggio su ruoli di combattimento e riparazioni: sono necessari ordini manuali per costruire nuove strutture.
-autofire
+Fuoco automatico
 Le armi mirano automaticamente e sparano sulla nave bersaglio
 Saltare
 Eseguire il salto di curvatura. Richiede carica ed elusione> 0.
@@ -559,7 +559,7 @@ Tutto l'equipaggio per tornare alla nave
 Nero
 Abbandonare la nave
 CODICE
-sensori
+Sensori
 Rileva le minacce in arrivo con ulteriore avviso.
 Abilità dell'equipaggio del sensore
 Avanti veloce
@@ -590,17 +590,17 @@ Dirigendosi al corpo
 Trattare con il corpo
 Inattivo
 La sedia del capitano
-navigazione
-sensori
-mira
-controlli scudo
-controlli dell'armatura
-comunicazioni
-controlli di calore
+Navigazione
+Sensori
+Mira
+Controlli scudo
+Controlli dell'armatura
+Comunicazioni
+Controlli di calore
 Verso l'ordine
 In attesa di ordine
-motori
-impianti
+Motori
+Impianti
 Controllo manuale
 L'equipaggio è sotto controllo manuale
 Compito
@@ -608,8 +608,8 @@ Attività assegnata al membro dell'equipaggio
 Impostare la rotta
 Campo di asteroidi
 Firma della nave
-console di ricerca
-controlli minerari
+Console di ricerca
+Controlli minerari
 Piano visivo
 Ruota per cambiare l'aspetto del pavimento
 Pavimento
@@ -626,14 +626,14 @@ Trasporto militare
 Fregata mineraria
 Baccello di fuga
 Facile
-medio
+Medio
 Difficile
 Difficoltà iniziale
 
 
 #	800		Main menu text
 Nuovo
-Caricare
+Carica
 Opzioni
 Esci
 Salva
@@ -653,7 +653,7 @@ Generale
 Effetti
 Menù
 Musica
-volume
+Volume
 Descrizione del volume principale
 Descrizione del volume degli effetti
 Descrizione del volume del menu
@@ -680,7 +680,7 @@ Scala UI
 Sperimentale. Segnalato per causare problemi FPS. Predefinito 1.
 Preselezione del colore
 Clic sinistro per impostare. Fare clic con il tasto destro per cancellare.
-in finestra
+In finestra
 Abilita display con finestre
 A schermo intero
 Abilita visualizzazione a schermo intero
@@ -711,15 +711,15 @@ Primo carico
 linguaggio
 Imposta lingua (richiede il riavvio)
 Inglese
-cinese semplificato
-cinese tradizionale
-francese
+Cinese semplificato
+Cinese tradizionale
+Francese
 Tedesco
-polacco
-portoghese
-russo
-spagnolo
-svedese
+Polacco
+Portoghese
+Russo
+Spagnolo
+Svedese
 Personalizzato
 UI alpha
 Trasparenza dello sfondo del pannello UI
@@ -759,10 +759,10 @@ Conferma il testo
 Conferma l'inserimento del testo
 Conferma testo 2
 Conferma inserimento testo 2
-Seleziona tutto / Salva gruppo
-Seleziona il pulsante tutto / salva gruppo
-non usato
-desc inutilizzato
+Seleziona tutto/Salva gruppo
+Seleziona il pulsante tutto/salva gruppo
+Non usato
+Desc inutilizzato
 Gruppo di controllo 1
 Seleziona il gruppo di controllo 1
 Gruppo di controllo 2
@@ -783,13 +783,13 @@ Gruppo di controllo 9
 Seleziona gruppo di controllo 9
 Gruppo di controllo 10
 Seleziona il gruppo di controllo 10
-Seleziona / rimuovi singolo
-Seleziona / rimuovi singola struttura / equipaggio
+Seleziona/rimuovi singolo
+Seleziona/rimuovi singola struttura/equipaggio
 Smetti di sparare
 Ferma il tiro con le armi selezionato
 Spegni
 Spegni le strutture selezionate
-Accensione
+Accendi
 Accendi le strutture selezionate
 Controllo del rilascio
 Rilascia il controllo dell'equipaggio selezionato
@@ -801,11 +801,11 @@ Disabilita / interrompe il lavoro
 Disabilita il lavoro sulla struttura selezionata
 Pausa
 Metti in pausa il gioco
-Bloccare la porta / airlock
+Bloccare la porta/airlock
 Blocca airlock selezionati
-Sblocca porta / airlock
+Sblocca porta/airlock
 Sblocca airlock selezionati
-Vent airlock
+Apri airlock
 Sfiatare la camera d'aria nello spazio
 Chiudi airlock
 Smettere di sfiatare dalla camera di equilibrio
@@ -814,23 +814,23 @@ Ruota la struttura in senso orario
 Ruota in senso antiorario
 Ruota la struttura in senso antiorario
 Pannello del piano
-Attiva / disattiva il pannello del piano
+Attiva/disattiva il pannello del piano
 Pannello dell'equipaggio
-Attiva / disattiva il pannello equipaggio
+Attiva/disattiva il pannello equipaggio
 Pannello di carico
-Attiva / disattiva il pannello cargo
+Attiva/disattiva il pannello cargo
 Pannello della nave
-Attiva / disattiva il pannello della nave
+Attiva/disattiva il pannello della nave
 Pannello a colori
-Attiva / disattiva il pannello colori
+Attiva/disattiva il pannello colori
 Rimuovere
-Attiva / disattiva rimozione rapida durante la costruzione
+Attiva/disattiva rimozione rapida durante la costruzione
 Dare priorità
-Attiva / disattiva la priorità durante la costruzione
-Attiva / disattiva il codice in rosso
-Attiva / disattiva il codice rosso
-Attiva / disattiva il fuoco automatico
-Attiva / disattiva la funzione di accensione automatica
+Attiva/disattiva la priorità durante la costruzione
+Attiva/disattiva il codice in rosso
+Attiva/disattiva il codice rosso
+Attiva/disattiva il fuoco automatico
+Attiva/disattiva la funzione di accensione automatica
 Assegna console
 Assegna l'equipaggio a lavorare su questa console
 Assegna letto
@@ -841,28 +841,28 @@ Ordina mangiare
 Ordina all'equipaggio di mangiare
 Ordina da bere
 Ordina un drink per l'equipaggio
-Attiva / disattiva il codice blu
-Attiva / disattiva il codice blu
-Warp jump
+Attiva/disattiva il codice blu
+Attiva/disattiva il codice blu
+Salto a curvatura
 Richiede la carica completa e> 0 eludere
-Attiva / disattiva il codice nero
-Attiva / disattiva il codice nero
+Attiva/disattiva il codice nero
+Attiva/disattiva il codice nero
 Pannello ruoli
-Attiva / disattiva il pannello dei ruoli
-Attiva / disattiva la velocità di gioco
-Attiva / disattiva la velocità di gioco
+Attiva/disattiva il pannello dei ruoli
+Attiva/disattiva la velocità di gioco
+Attiva/disattiva la velocità di gioco
 Centra fotocamera
 Centra la videocamera sulla nave
 Pannello delle attività
-Attiva / disattiva il pannello delle attività
+Attiva/disattiva il pannello delle attività
 Pannello struttura
-Attiva / disattiva il pannello della struttura
+Attiva/disattiva il pannello della struttura
 Pannello di ricerca
-Attiva / disattiva il pannello di ricerca
+Attiva/disattiva il pannello di ricerca
 Pannello di notifica
-Attiva / disattiva il pannello delle notifiche
-Attiva / disattiva l'interfaccia utente
-Attiva / disattiva l'interfaccia utente
+Attiva/disattiva il pannello delle notifiche
+Attiva/disattiva l'interfaccia utente
+Attiva/disattiva l'interfaccia utente
 Ingrandire
 Ingrandisci la fotocamera
 Rimpicciolisci
