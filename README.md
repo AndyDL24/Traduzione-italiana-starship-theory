@@ -21,4 +21,7 @@ file e rifare la stessa procedura indicata sopra. Oppure sulla mia guida di stea
 È semplice dovete iscrivervi al sito e cliccare sulla scritta in alto a adestra "fork" scaricare il file con il pulsante "clone", modificare il file e dopo di che andare su
 "add file" poi "upload file" caricare il file come indicato e inserire il titolo e la descrizione delle modifiche e il gioco è fatto.
 
-Ringrazio tutti in anticipo.
+# Come posso ringraziarti?
+Se vuoi ringraziarmi potresti fare una piccola donazione(anche un caffè) con paypall su questo sito: https://streamelements.com/andyd24/tip
+
+Ringrazio tutti anticipatamente.
