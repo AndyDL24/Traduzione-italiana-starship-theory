@@ -2,7 +2,7 @@
 Traduzione italiana del gioco Starship Theory
 
 # Come si scarica da questo strano sito.
-Per scaricare la traduzione basta andare sul pulsante "clona" poi selezionare il .zip e scaricare il file sul proprio computer.
+Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il .zip e scaricare il file sul proprio computer.
 
 # Come installare la traduzione.
 Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, poi copiare il file Custom.txt e incollare il file all'interno della cartella del gioco,
